@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xisco-correa
-- 👀 I’m interested in be one of the best blockchain auditors in the world
-- 🌱 I’m currently learning solidity
+- 👀 I’m interested in becoming one of the best professionals in the smart contract field
+- 🌱 I’m currently learning RUST/ink! Smart Contracts
 - 💞️ I’m looking to collaborate with everyone
-- 📫 How to reach me xcv.contacto@gmail.com
+- 📫 How to reach me xiscocorreapromos@gmail.com
 - 😄 Pronouns: King/
 - ⚡ Fun fact: What’s the best way to talk to a T-Rex?  From a distance.
